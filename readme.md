@@ -1,3 +1,5 @@
 - [x] project setup
 - [x] install tailwind
-- [ ]
+- [x] install icons
+- [x] add data
+- [x] create slider
